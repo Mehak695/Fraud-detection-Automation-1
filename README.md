@@ -97,10 +97,10 @@ Mehak
 
 AI-Powered Fraud Detection Workflow using n8n for real-time transaction risk scoring, Google Sheets automation, Gmail alerts
 
-## Author
+Author
 
-**Mehak**
+Mehak695
 
-Loan Approval Prediction using Orange Data Mining for credit risk assessment and loan approval decision-making.
+AI-Powered Fraud Detection Workflow using n8n for real-time transaction risk scoring, Google Sheets automation, Gmail alerts, and Power BI analytics.
 
 
