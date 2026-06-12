@@ -70,7 +70,7 @@ Repository Structure
 
 ### 3. High Risk Fraud Alert Email
 
-![High Risk Fraud Alert](./HighRiskFraudAlert.jpg)
+![High Risk Fraud Alert](HighRiskFraudAlert.jpg)
 
 ---
 
@@ -79,8 +79,6 @@ Repository Structure
 
 ---
 
-## 5. Power BI Dashboard
-![Power BI Dashboard](Dashbord.jpg)
 
 ---
 
