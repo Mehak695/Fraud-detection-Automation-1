@@ -64,7 +64,7 @@ Repository Structure
 ---
 
 ## 2. Google Sheets Integration
-![Google Sheets Integration](Googlesheets.jpg)
+![Google Sheets Integration](Googleseets.jpg)
 
 ---
 
