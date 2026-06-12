@@ -79,7 +79,7 @@ Repository Structure
 ---
 
 ## 5. Power BI Dashboard
-![Power BI Dashboard](Dashboard.jpg)
+![Power BI Dashboard](Dashbord.jpg)
 
 ---
 
