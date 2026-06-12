@@ -14,7 +14,7 @@ Visualize fraud and loan analytics through Power BI.
 n8n – Workflow Automation
 Gmail API – Automated Email Notifications
 Google Sheets – Data Storage & Updates
-Power BI – Dashboard & Reporting
+
 AI-Based Risk Logic – Fraud Detection and Loan Assessment
 
 ## Workflow Architecture
@@ -23,7 +23,7 @@ Risk analysis identifies potential fraud indicators.
 Loan applications are evaluated based on predefined criteria.
 Results are automatically recorded in Google Sheets.
 Gmail sends alerts and status updates to stakeholders.
-Power BI dashboard visualizes fraud trends, approvals, and risk metrics.
+
 
 ## Features
 Automated Risk Assessment
@@ -39,7 +39,6 @@ Maintains centralized audit trail.
 ## Gmail Notifications
 Sends automated approval, rejection, and risk alert emails.
 Provides real-time communication.
-Power BI Dashboard
 Fraud case monitoring.
 Risk score visualization.
 Loan approval analytics.
