@@ -68,8 +68,9 @@ Repository Structure
 
 ---
 
-## 3. High Risk Fraud Alert Email
-![High Risk Fraud Alert](HighRiskFraudAlert.jpg)
+### 3. High Risk Fraud Alert Email
+
+![High Risk Fraud Alert](./HighRiskFraudAlert.jpg)
 
 ---
 
