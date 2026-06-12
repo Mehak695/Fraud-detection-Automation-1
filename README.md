@@ -64,32 +64,32 @@ Repository Structure
 ---
 
 ## 2. Google Sheets Integration
-![Google Sheets Integration](./Googlesheets.jpg)
+![Google Sheets Integration](Googlesheets.jpg)
 
 ---
 
 ## 3. High Risk Fraud Alert Email
-![High Risk Fraud Alert](./HighRiskFraudAlert.jpg)
+![High Risk Fraud Alert](HighRiskFraudAlert.jpg)
 
 ---
 
 ## 4. Financial Risk Alert
-![Financial Risk Alert](./FinancialRiskAlert.jpg)
+![Financial Risk Alert](FinancialRiskAlert.jpg)
 
 ---
 
 ## 5. Power BI Dashboard
-![Power BI Dashboard](./Dashboard.jpg)
+![Power BI Dashboard](Dashboard.jpg)
 
 ---
 
 ## 6. High Value Transaction Detection
-![High Value Transaction Detection](./HIGHVALUE.jpg)
+![High Value Transaction Detection](HIGHVALUE.jpg)
 
 ---
 
 ## 7. Loan Approval Workflow
-![Loan Approval Workflow](./LOANAPPROVEMENT.jpg)
+![Loan Approval Workflow](LOANAPPROVEMENT.jpg)
 
 ---
 
