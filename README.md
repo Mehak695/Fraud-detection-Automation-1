@@ -67,10 +67,8 @@ Repository Structure
 
 ---
 
-### 3. High Risk Fraud Alert Email
-
-![High Risk Fraud Alert](HighRiskFraudAlert.jpg)
-
+| Gmail Automation | Email Alert 
+ ![Mail](./Mail.jpeg)
 ---
 
 ## 4. Financial Risk Alert
